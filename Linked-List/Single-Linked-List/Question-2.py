@@ -1,4 +1,6 @@
 # Deletion of the head of LL
+# Easy
+# Confident
 
 """
 Given the head of a singly linked list, delete the head of the linked list and return the head of the modified list.

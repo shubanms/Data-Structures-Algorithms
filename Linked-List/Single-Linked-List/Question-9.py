@@ -1,4 +1,6 @@
 # Insertion before the value X in LL
+# Easy
+# To Revise
 
 '''
 Given the head of a singly linked list and two integers X and val, 

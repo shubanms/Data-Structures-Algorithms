@@ -1,4 +1,6 @@
 # Insertion at the Kth position of LL
+# Easy
+# To Revise
 
 '''
 Given the head of a singly linked list and two integers X and K, insert a node with value X as the kth node of the linked list and return the head of the modified list.

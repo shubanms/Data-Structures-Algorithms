@@ -1,4 +1,6 @@
-# Deletion of the Kth element of LL
+# Delete the element with value X
+# Easy
+# Confident
 
 '''
 Given the head of a singly linked list and an integer X, delete the node with value X and return the head of the modified list.

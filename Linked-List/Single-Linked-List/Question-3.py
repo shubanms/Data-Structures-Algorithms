@@ -1,4 +1,6 @@
 # Deletion of the tail of LL
+# Easy
+# Confident
 
 """
 Given the head of a singly linked list, delete the tail of the linked list and return the head of the modified list.

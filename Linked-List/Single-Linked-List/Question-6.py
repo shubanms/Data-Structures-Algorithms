@@ -1,4 +1,6 @@
 # Insertion at the head of LL
+# Easy
+# Confident
 
 '''
 Given the head of a singly linked list and an integer X, insert a node with value X at the head of the linked list and return the head of the modified list.
