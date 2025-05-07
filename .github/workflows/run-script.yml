@@ -25,9 +25,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install rich matplotlib
 
-    - name: Run script
+    - name: Run Build Tables Script
       run: |
-        python script.py
+        python build_table.py
+
+    - name: Run Build Main Dashboard script
+      run: |
+        python build_dashboard.py
 
     - name: Configure Git
       run: |
