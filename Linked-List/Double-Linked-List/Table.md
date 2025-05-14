@@ -5,6 +5,8 @@
     <h3 style="color: #6a5acd; text-align: center; font-family: Arial, sans-serif;">Confident</h3>
     <ul style="list-style-type: none; padding: 0;">
       <li style="margin: 10px 0;"><a href="Question-1.py" style="text-decoration: none; color: #dcdcdc; font-weight: bold;">Convert Array to DLL</a></li>
+      <li style="margin: 10px 0;"><a href="Question-2.py" style="text-decoration: none; color: #dcdcdc; font-weight: bold;">Delete head of DLL</a></li>
+      <li style="margin: 10px 0;"><a href="Question-3.py" style="text-decoration: none; color: #dcdcdc; font-weight: bold;">Delete Tail of DLL</a></li>
     </ul>
   </div>
 </div>
