@@ -1,6 +1,6 @@
 # Convert Array to DLL
 # Easy
-# Confident
+# To Revise
 
 """
 Given an array nums, convert it into a doubly linked list and return the head of the list.
